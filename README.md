@@ -1,3 +1,5 @@
+In my quick profile while it is deployed the top buttons work to show my other pages and you can click on the pictures to see the links to the few projects I have linked.
+
 Here is a quick picture of the app running in my browser. 
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/68261092/105562875-cef44500-5cd0-11eb-8a75-229de70bc9da.png)
